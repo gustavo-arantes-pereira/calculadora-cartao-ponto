@@ -1,12 +1,12 @@
 # Calculadora de Cartão Ponto
 
 - Calculadora que recebe os horários trabalhados do funcionário e exibe um total.
-<br>
-<br>
+</br>
+</br>
 <img src="https://user-images.githubusercontent.com/50367720/113009480-5d13fe00-914e-11eb-829f-f35d8aa09bf1.png"/>
-<br>
-<br>
-<br>
+</br>
+</br>
+</br>
 # Funcionalidades:
 <br>
 <br>
@@ -117,4 +117,4 @@
 <br>
 <br>
 <br>
-## E esta é a lógica por trás desta planilha feita em parceiria com o setor financeiro da empresa em que eu trabalhava
+E esta é a lógica por trás desta planilha feita em parceiria com o setor financeiro da empresa em que eu trabalhava
